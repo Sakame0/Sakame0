@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Sakame0
+- 👀 I’m interested in FrontEnd Work
+- 🌱 I’m currently learning JS
+- 📫 How to reach me ...
